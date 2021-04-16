@@ -1,2 +1,2 @@
-# towersiege_3
-proj 32 using API
+# p5.play-boilerplate
+Boiler plate for p5.play
